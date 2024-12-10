@@ -1,0 +1,7 @@
+{
+    "settings": {
+        "pattern": ["a-z"],
+        "digits": 5
+    },
+    "code": "klklk"
+}
